@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archivs on Erlebnis-Mathematik</title>
+    <link>/archiv/</link>
+    <description>Recent content in Archivs on Erlebnis-Mathematik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/archiv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objekt des Sommers 2019</title>
+      <link>/archiv/2019/05/15/st%C3%BCcks2019/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archiv/2019/05/15/st%C3%BCcks2019/</guid>
+      <description>Napierschen Rechenstäbe  
+ Die Rechenstäbchen sind benannt nach dem schottischen Mathematiker John Napier (1550-1617), der diese als Hilfsmittel zum Multiplizieren und Dividieren eingeführt hatte. Die Napierschen Stäbchen dienten unter Anderem als Grundlage für die erste Rechenmaschine von Wilhelm Schickard im Jahr 1623. Das Rechnen mit den Napierschen Rechenstäbchen wird im Erlebnis Mathematik detailgenau erklärt.</description>
+    </item>
+    
+    <item>
+      <title>Objekt der Eröffnung</title>
+      <link>/archiv/2018/09/01/st%C3%BCcker%C3%B6ffnung/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/archiv/2018/09/01/st%C3%BCcker%C3%B6ffnung/</guid>
+      <description>Kepler-Stern</description>
+    </item>
+    
+    <item>
+      <title>Objekt des Sommers 2018</title>
+      <link>/archiv/2018/06/10/st%C3%BCcks2018/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/archiv/2018/06/10/st%C3%BCcks2018/</guid>
+      <description>Königsberger Brücken</description>
+    </item>
+    
+  </channel>
+</rss>
