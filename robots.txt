@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://erlebnis-mathematik.github.io/sitemap.xml

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event on Erlebnis-Mathematik</title>
+    <link>/tags/event/</link>
+    <description>Recent content in Event on Erlebnis-Mathematik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>450. Geburtstag Johannes Kepler</title>
+      <link>/blog/2021/12/21/kepler/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021/12/21/kepler/</guid>
+      <description>27.Dezember 2021 450.Geburtstag von Johannes Kepler  
+ Im Mai 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. </description>
+    </item>
+    
+    <item>
+      <title>450. Geburtstag Johannes Kepler</title>
+      <link>/news/2021/12/21/kepler/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2021/12/21/kepler/</guid>
+      <description>27.Dezember 2021 450.Geburtstag von Johannes Kepler  
+ Im Mai 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. </description>
+    </item>
+    
+  </channel>
+</rss>

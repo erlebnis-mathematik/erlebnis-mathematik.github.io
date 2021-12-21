@@ -1,0 +1,60 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+
+baseURL = "https://erlebnis-mathematik.github.io/"
+title = "Erlebnis Mathematik"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "myjane"
+
+defaultContentLanguage = "de"
+[Languages.de]
+  languageCode = "de"
+
+
+[author]
+  name = "Gerlinde Faustmann"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]             # config your menu
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Über uns"
+  weight = 20
+  identifier = "aboutus"
+  url = "/post/"
+[[menu.main]]
+  name = "Archives"
+  weight = 50
+  identifier = "archives"
+  url = "/post/"
+[[menu.main]]
+  name = "Kontakt"
+  weight = 30
+  identifier = "test"
+  url = "/test/"
+[[menu.main]]
+  name = "Events"
+  weight = 40
+  identifier = "events"
+  url = "/post/"
+
+
+[params]
+  debug = false
+  since = "2018"
+  homeFullContent = false
+
+  logoTitle = "Erlebnis Mathematik"
+  keywords = ["Museum","Mathematik"]
+  description = "Erlebnis Mathematik"
+
+  archive-paginate = 3

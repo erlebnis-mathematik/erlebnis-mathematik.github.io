@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Erlebnis-Mathematik</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Erlebnis-Mathematik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ausstellungsstück</title>
+      <link>/tags/ausstellungsst%C3%BCck/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ausstellungsst%C3%BCck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>/tags/event/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kepler</title>
+      <link>/tags/kepler/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kepler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematik</title>
+      <link>/tags/mathematik/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mathematik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Museum</title>
+      <link>/tags/museum/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/museum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presse</title>
+      <link>/tags/presse/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/presse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quarza</title>
+      <link>/tags/quarza/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quarza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortrag</title>
+      <link>/tags/vortrag/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vortrag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

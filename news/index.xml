@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Erlebnis-Mathematik</title>
+    <link>/news/</link>
+    <description>Recent content in News on Erlebnis-Mathematik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>450. Geburtstag Johannes Kepler</title>
+      <link>/news/2021/12/21/kepler/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2021/12/21/kepler/</guid>
+      <description>27.Dezember 2021 450.Geburtstag von Johannes Kepler  
+ Im Mai 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. </description>
+    </item>
+    
+    <item>
+      <title>QuarZa - Quartett der Geschichte der Zahlen</title>
+      <link>/news/2021/01/05/quartett/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2021/01/05/quartett/</guid>
+      <description>QuarZa - Quartett der Geschichte der Zahlen  
+ Durch das Quartettkartenspiel, das in sechs Themengebiete gegliedert ist, wird ein Eindruck von den Quellen und den ersten Zahlenstarstellungen vermittelt. Im Verlauf des Spiels wird den Spielerinnen und Spielern die lange Entwicklungsgeschichte der Brüche, der Zahl Null sowie jene der negativen und reellen Zahlen bewusst. Das Kartenspiel leistet dabei einen wichtigen Beitrag zur Interessensweckung für die Geschichte der Zahlen sowie zur selbständigen Beschäftigung mit deren Entwicklung.</description>
+    </item>
+    
+    <item>
+      <title>Beitrag in Peters Funkturm</title>
+      <link>/news/2020/10/24/petersfunkturm/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/10/24/petersfunkturm/</guid>
+      <description>Über Erlebnis Mathematik erschien im Podcast Peters Funkturm (petersfunkturm.com) in der Rubrik Alltagsgeschichten oder direkt hier! </description>
+    </item>
+    
+    <item>
+      <title>SchauTV - schau LEBEN</title>
+      <link>/news/2020/02/14/schautv/</link>
+      <pubDate>Fri, 14 Feb 2020 17:49:20 +0200</pubDate>
+      
+      <guid>/news/2020/02/14/schautv/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in SchauTV am 14. Februar 2020 in der Rubrik schau LEBEN ein Kurzbeitrag.
+Link zum Beitrag (Minuten 12:20-15:50)</description>
+    </item>
+    
+    <item>
+      <title>TUForMath</title>
+      <link>/news/2019/04/26/tuformath/</link>
+      <pubDate>Fri, 26 Apr 2019 17:49:20 +0200</pubDate>
+      
+      <guid>/news/2019/04/26/tuformath/</guid>
+      <description>Das Forum Mathematik der TU Wien dient dazu den Stellenwert der Mathematik in der Gesellschaft hervorzuheben und zur Mathematik positive Assoziationen herzustellen.
+Einerseits werden speziell konzipierte Veranstaltungen für Schulklassen angeboten und andererseits werden die Beiträge der Mathematik in Technik und Naturwissenschaften, Gesellschaft und Kultur sowie in Kunst und Wirtschaft in einem breiten Vortragsprogramm allgemeinverständlich und spannend von kompetenten Vortragenden dargestellt.
+Erlebnis Mathematik empfiehlt jedem mathematisch Interessierten TUForMath zu besuchen.</description>
+    </item>
+    
+    <item>
+      <title>Presse-Artikel in NÖN</title>
+      <link>/news/2018/08/22/rezension/</link>
+      <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
+      
+      <guid>/news/2018/08/22/rezension/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 32 Jahr 2018 der Artikel &amp;ldquo;Liebeserklärung an die Mathematik&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
