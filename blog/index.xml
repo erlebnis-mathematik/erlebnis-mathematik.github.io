@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Hans Preineder</title>
+      <link>/blog/2023/11/06/talkhp/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2023/11/06/talkhp/</guid>
+      <description>Am Freitag 17.11.2023 um 18:30 gibt Hans Preineder im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Simulation elektromagnetischer Felder – eine Anwendung der Mathematik&amp;rdquo;.
+Wo begegnen wir elektromagnetischen Feldern? Warum ist es nötig, die elektromagnetische Feldstärke an Bahnfahrzeugen zu messen? Die Messung des magnetischen Störfeldes im Bahnbereich ist nicht trivial. Mit Simulationsrechnungen versuchen wir diese Probleme besser zu verstehen. Was sind die Voraussetzungen, um eine sinnvolle Simulation durchzuführen? Welche Vorteile und Probleme treten bei einer Simulation auf?</description>
+    </item>
     
     <item>
       <title>Jubliäumsband 5 Jahre Erlebnis Mathematik</title>
