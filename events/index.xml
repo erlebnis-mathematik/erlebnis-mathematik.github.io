@@ -6,10 +6,19 @@
     <description>Recent content in Events on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Erwin Sulzgruber</title>
+      <link>/events/2024/03/02/talkes/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2024/03/02/talkes/</guid>
+      <description>Am Freitag 15.3.2024 um 18:30 gibt DI Erwin Sulzgruber im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Was Sie schon immer über relationale Datenbanken wissen wollten&amp;rdquo; (aber sich nicht getraut haben zu fragen).</description>
+    </item>
     
     <item>
       <title>Vortrag Hans Preineder</title>
