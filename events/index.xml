@@ -6,10 +6,30 @@
     <description>Recent content in Events on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Thomas Jahre</title>
+      <link>/events/2024/09/11/talkjahre/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2024/09/11/talkjahre/</guid>
+      <description>Am Freitag 20.09.2024 gibt Thomas Jahre (Chemnitz) im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Mathematiker auf Banknoten&amp;rdquo;.
+Mathematik ist überall, aber auf Banknoten? Wer hier nur an die Zahlen auf den Scheinen denkt, der wird von der Vielfalt der Themen überrascht sein, die in dem Vortrag präsentiert werden. Berühmte Mathematiker, Zahlensysteme, Kalendersteine, Statistik, Formeln, Rechenmaschinen und vieles mehr hat den Weg auf Banknoten gefunden – einfach überraschen lassen und staunen.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Wolfgang Herold</title>
+      <link>/events/2024/09/11/talkwh2/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2024/09/11/talkwh2/</guid>
+      <description>Am Freitag 30.08.2024 gab DI Wolfgang Herold im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Trost und Moral in der Mathematik&amp;rdquo;.
+PhilosophInnen als die Weisheit liebende Menschen und LogikerInnen als Künstler des Denkens sind seit der Antike verwandte, einander ergänzende und doch unterscheidbare Rollenbilder. Kurze Skizzen aus dem Leben und Wirken historische Persönlichkeiten der Antike und der Neuzeit beleuchten die besondere Beziehung zwischen Mathematik und Logik auf der einen sowie Philosophie und Theologie auf der anderen Seite.</description>
+    </item>
     
     <item>
       <title>Schul-Workshop</title>
@@ -75,7 +95,7 @@ Der Vortrag knüpft unmittelbar an das Thema der Wahrscheinlichkeit und (Un)Stat
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/events/2023/03/03/talkgp2/</guid>
-      <description>Am Freitag 24.3. gibt Dr.techn. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Genealogie und Mathematik&amp;rdquo;.
+      <description>Am Freitag 24.3. gab Dr.techn. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Unstatistik - fix oder unwahrscheinlich?! Mensch und Zufall&amp;rdquo;.
 Wir haben so unsere Probleme mit dem Zufall und der Statistik. Wir schätzen Wahrscheinlichkeiten falsch ein und finden falsche Erklärungsmuster. Mein Vortrag bringt Beispiele zur Abstimmung und stellt Hypothesen zur Diskussion. Auch besprechen wir – bewusste und unbewusste – statistische Fehler und Manipulationsmöglichkeiten. Keine Vorlesung voller Formeln, aber zentrale Regeln werden erklärt oder aufgefrischt.</description>
     </item>
     
