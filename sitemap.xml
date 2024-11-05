@@ -3,6 +3,216 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2024/11/04/talkmf3/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2024/11/04/talkmf3/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2024/09/11/talkjahre/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2024/09/11/talkjahre/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2024/09/11/talkwh2/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2024/09/11/talkwh2/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2024/05/03/workshopgp/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2024/05/03/workshopgp/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2024/05/03/talkmichi2/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2024/05/03/talkmichi2/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2024/03/02/talkes/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2024/03/02/talkes/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2023/11/06/talkhp/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2023/11/06/talkhp/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2023/10/21/jubilaeumsband/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2023/10/21/jubilaeumsband/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2023/10/20/presseartikel5jahre/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2023/10/20/presseartikel5jahre/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2023/05/05/talkwh/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2023/05/05/talkwh/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2023/04/14/retalks/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2023/04/14/retalks/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2023/03/03/talkgp2/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2023/03/03/talkgp2/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/10/31/talkfjv/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2022/10/31/talkfjv/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/10/14/talkmichi/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2022/10/14/talkmichi/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/07/22/presseartikel2022/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2022/07/22/presseartikel2022/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/06/10/keplerfeier/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2022/06/10/keplerfeier/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/05/11/kepler/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/2022/05/11/kepler/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2022/05/11/kepler/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/03/27/quartett/</loc>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2022/03/27/quartett/</loc>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2021/10/02/herbstraetsel/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2020/10/24/petersfunkturm/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020/06/02/st%C3%BCcks20/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020/02/14/schautv/</loc>
+    <lastmod>2020-02-14T17:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2020/02/14/schautv/</loc>
+    <lastmod>2020-02-14T17:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2020/01/05/talkgp/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -140,37 +350,67 @@
   
   <url>
     <loc>/tags/ausstellungsst%C3%BCck/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/austellung/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/band/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/band/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/event/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/events/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/events/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kepler/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,31 +420,31 @@
   
   <url>
     <loc>/tags/mathematik/</loc>
-    <lastmod>2019-04-26T17:49:20+02:00</lastmod>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/museum/</loc>
-    <lastmod>2018-09-30T10:49:20+02:00</lastmod>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/museum/</loc>
-    <lastmod>2018-09-30T10:49:20+02:00</lastmod>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2019-04-26T17:49:20+02:00</lastmod>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/presse/</loc>
-    <lastmod>2018-08-22T17:49:20+02:00</lastmod>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,20 +455,38 @@
   </url>
   
   <url>
+    <loc>/tags/quarza/</loc>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/vortrag/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/vortr%C3%A4ge/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/workshop/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
