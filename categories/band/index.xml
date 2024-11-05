@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Band on Erlebnis-Mathematik</title>
+    <link>/categories/band/</link>
+    <description>Recent content in Band on Erlebnis-Mathematik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/band/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jubliäumsband 5 Jahre Erlebnis Mathematik</title>
+      <link>/blog/2023/10/21/jubilaeumsband/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2023/10/21/jubilaeumsband/</guid>
+      <description>Anlässlich des 5-jährigen Bestehens des Erlebnis Mathematik wurde bei der Jubliäumsfeier am 29./30.9. der Jubiläumsband mit einer Kurzfassung von 11 abgehaltenen Vorträgen präsentiert. Der Band steht auch als Download nachfolgend zur Verfügung.
+Link zum Band</description>
+    </item>
+    
+    <item>
+      <title>Jubliäumsband 5 Jahre Erlebnis Mathematik</title>
+      <link>/news/2023/10/21/jubilaeumsband/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/10/21/jubilaeumsband/</guid>
+      <description>Anlässlich des 5-jährigen Bestehens des Erlebnis Mathematik wurde bei der Jubliäumsfeier am 29./30.9. der Jubiläumsband mit einer Kurzfassung von 11 abgehaltenen Vorträgen präsentiert. Der Band steht auch als Download nachfolgend zur Verfügung.
+Link zum Band</description>
+    </item>
+    
+  </channel>
+</rss>

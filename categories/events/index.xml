@@ -6,29 +6,39 @@
     <description>Recent content in Events on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>450. Geburtstag Johannes Kepler</title>
-      <link>/blog/2021/12/21/kepler/</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <link>/blog/2022/05/11/kepler/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/12/21/kepler/</guid>
-      <description>27.Dezember 2021 450.Geburtstag von Johannes Kepler  
- Im Mai 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. </description>
+      <guid>/blog/2022/05/11/kepler/</guid>
+      <description>27.Dezember 2021: 450.Geburtstag von Johannes Kepler  
+ Am 10. und 11. Juni 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. Das Programm der Veranstaltung finden Sie hier: Link zum Programm Dank an den Unterstützer der Jubiläumsveranstaltung:  wp.stb@wiedeschitz.at</description>
     </item>
     
     <item>
       <title>450. Geburtstag Johannes Kepler</title>
-      <link>/news/2021/12/21/kepler/</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <link>/events/2022/05/11/kepler/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/news/2021/12/21/kepler/</guid>
-      <description>27.Dezember 2021 450.Geburtstag von Johannes Kepler  
- Im Mai 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. </description>
+      <guid>/events/2022/05/11/kepler/</guid>
+      <description>27.Dezember 2021: 450.Geburtstag von Johannes Kepler  
+ Am 10. und 11. Juni 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. Das Programm der Veranstaltung finden Sie hier: Link zum Programm Dank an den Sponsor der Jubiläumsveranstaltung:  wp.stb@wiedeschitz.at</description>
+    </item>
+    
+    <item>
+      <title>450. Geburtstag Johannes Kepler</title>
+      <link>/news/2022/05/11/kepler/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/05/11/kepler/</guid>
+      <description>27.Dezember 2021: 450.Geburtstag von Johannes Kepler  
+ Am 10. und 11. Juni 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. Das Programm der Veranstaltung finden Sie hier: Link zum Programm Dank an den Sponsor der Jubiläumsveranstaltung:  wp.stb@wiedeschitz.at</description>
     </item>
     
   </channel>

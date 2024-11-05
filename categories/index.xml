@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Austellung</title>
       <link>/categories/austellung/</link>
-      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/austellung/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Band</title>
+      <link>/categories/band/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/band/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Events</title>
       <link>/categories/events/</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/events/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Museum</title>
       <link>/categories/museum/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/museum/</guid>
       <description></description>
@@ -41,9 +50,18 @@
     <item>
       <title>Vorträge</title>
       <link>/categories/vortr%C3%A4ge/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/categories/vortr%C3%A4ge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>/categories/workshop/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/workshop/</guid>
       <description></description>
     </item>
     
