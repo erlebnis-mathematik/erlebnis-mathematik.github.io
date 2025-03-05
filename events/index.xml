@@ -6,10 +6,20 @@
     <description>Recent content in Events on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erlebnis-mathematik.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Pi Day</title>
+      <link>https://erlebnis-mathematik.github.io/events/2025/03/05/talkpiday/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/events/2025/03/05/talkpiday/</guid>
+      <description>Am 14.3.2025 geben Mag. Franz Josef Vrabec und Dr. Gerold Petritsch im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Liebes Pi – bist Du eigentlich normal?&amp;rdquo;.
+Inhalt: Kurioses und Amüsantes über die Zahl Pi, insbesonders ob sie eine “normale” Zahl ist und Nadelversuch nach Buffon.</description>
+    </item>
     
     <item>
       <title>Vortrag Markus Faustmann</title>
