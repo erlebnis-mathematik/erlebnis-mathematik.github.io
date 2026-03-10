@@ -2,90 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Erlebnis-Mathematik</title>
-    <link>/blog/</link>
+    <link>https://erlebnis-mathematik.github.io/blog/</link>
     <description>Recent content in Blogs on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://erlebnis-mathematik.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Vortrag Gustav Feichtinger</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2026/03/10/talkgf26/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2026/03/10/talkgf26/</guid>
+      <description>Am 13.3.2026 gibt Em.O.Univ.Prof. Dr.phil.Gustav Feichtinger im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Depopulation — Die Weltbevölkerung im mathematischen Sinkflug&amp;rdquo;.
+Inhalt: In diesem Vortrag wird ein Einblick in mathematische Modelle der Demographie gegeben, die uns helfen können, Fragen nach der Zeit bis zum „Aussterben“ der Menschheit zu stellen und zu beantworten.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Gerlinde Faustmann</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2025/10/30/talkgf25/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2025/10/30/talkgf25/</guid>
+      <description>Am 7.11.2025 gab Dr. Gerlinde Faustmann im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Historische Entwicklung der Zahlen&amp;rdquo;.
+Inhalt: Beginnend mit der Frage nach der Zahlenentwicklung werden wir Quellen der Zahlendarstellungen kennenlernen. Die Darstellungen der Zahlen verschiedener Kulturen und die Zahlzeichen der Sumerer, Ägypter, Griechen, Römer, Mayas und Azteken werden vorgestellt. Der interessante Weg bis zur Akzeptanz der indisch-arabischen Ziffern und der Null wird erläutert. Schließlich wird auch die lange Entwicklung der negativen Zahlen erklärt.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Erwin Sulzgruber</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2025/04/13/talkes2/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2025/04/13/talkes2/</guid>
+      <description>Am 23.5.2025 gibt DI Erwin Sulzgruber im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Kinderspielzeug oder Mathe-Problem?&amp;rdquo;.
+Wer von uns hat nicht als Kind ein Tangram besessen oder ein 15-Puzzle - das fälschlicherweise dem US-Erfinder Samuel Lloyd zugeschrieben wird. Manche von uns hatten vielleicht auch einen Somawürfel oder die berühmten Türme von Hanoi. So unterhaltsam diese Spielzeuge für Kinder sind, so interessant sind sie auch für uns Mathematiker. Sie liefern zwar nicht unbedingt bahnbrechende Beiträge zum Fortschritt der mathematischen Forschung, aber sie haben doch ihre kleinen, reizvollen Geheimnisse, denen wir in diesem Vortrag auf den Grund gehen wollen.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Pi Day</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2025/03/05/talkpiday/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2025/03/05/talkpiday/</guid>
+      <description>Am 14.3.2025 geben Mag. Franz Josef Vrabec und Dr. Gerold Petritsch im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Liebes Pi – bist Du eigentlich normal?&amp;rdquo;.
+Inhalt: Kurioses und Amüsantes über die Zahl Pi, insbesonders ob sie eine “normale” Zahl ist und Nadelversuch nach Buffon.
+Nachfolgend sind einige Impressionen des interessanten Vortrags.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Markus Faustmann</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2024/11/04/talkmf3/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2024/11/04/talkmf3/</guid>
+      <description>Am 22.11.2024 gibt Dr. Markus Faustmann im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Quantum Computing - Ein Quantensprung?&amp;rdquo;.
+(Copyright: getty-istock-BartolomiejWroblewski)
+In den letzten Jahren liest und hört man vermehrt von Quantencomputern. Was sind aber Quantencomputer und worauf basieren Sie? Welches Potential haben sie, unsere Welt zu revolutionieren? Und warum spielt hierbei auch die Mathematik eine fundamentale Rolle? In diesem Vortrag werden wir diese Fragen behandeln und als Beispiel eine Zahl auf einem Quantencomputer in ihre Primfaktoren zerlegen.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Thomas Jahre</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2024/09/11/talkjahre/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2024/09/11/talkjahre/</guid>
+      <description>Am Freitag 20.09.2024 gibt Thomas Jahre (Chemnitz) im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Mathematiker auf Banknoten&amp;rdquo;.
+Mathematik ist überall, aber auf Banknoten? Wer hier nur an die Zahlen auf den Scheinen denkt, der wird von der Vielfalt der Themen überrascht sein, die in dem Vortrag präsentiert werden. Berühmte Mathematiker, Zahlensysteme, Kalendersteine, Statistik, Formeln, Rechenmaschinen und vieles mehr hat den Weg auf Banknoten gefunden – einfach überraschen lassen und staunen.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Wolfgang Herold</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2024/09/11/talkwh2/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2024/09/11/talkwh2/</guid>
+      <description>Am Freitag 30.08.2024 gab DI Wolfgang Herold im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Trost und Moral in der Mathematik&amp;rdquo;.
+PhilosophInnen als die Weisheit liebende Menschen und LogikerInnen als Künstler des Denkens sind seit der Antike verwandte, einander ergänzende und doch unterscheidbare Rollenbilder. Kurze Skizzen aus dem Leben und Wirken historische Persönlichkeiten der Antike und der Neuzeit beleuchten die besondere Beziehung zwischen Mathematik und Logik auf der einen sowie Philosophie und Theologie auf der anderen Seite.</description>
+    </item>
+    
+    <item>
+      <title>Schul-Workshop</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2024/05/03/workshopgp/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2024/05/03/workshopgp/</guid>
+      <description>In der letzte Schulwoche Montag, Dienstag, Mittwoch jeweils 8:00 Uhr - 9:30 Uhr und 9:45 Uhr - 11:45 Uhr gib es einen Workshop für Schülerinnen und Schüler ab der 9. Schulstufe zum Thema 0, π, ∞. Leitung: Dr. Gerold Petritsch.
+Um rasche Anmeldung zum entsprechenden Termin wird gebeten! Begrenzte Platzzahl für jeweils max. 15 SchülerInnen. Pro Tag und Gruppe können je nach Wunsch ein Termin oder beide Termine gebucht werden.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Michael Feischl</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2024/05/03/talkmichi2/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2024/05/03/talkmichi2/</guid>
+      <description>Am Freitag 24.05.2024 gibt Univ.-Prof. DI Dr. Michael Feischl im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Wenn Mathematik Schach spielt&amp;rdquo;.
+Was passiert, wenn Mathematik Schach spielt? 1997 besiegte erstmals ein Schachcomputer den amtierenden Weltmeister und vielleicht besten Spieler aller Zeiten. Wenige Jahre später dominieren Computer nicht nur Schach, sondern auch viele andere Spiele, die zuvor als Bastion menschlicher Intelligenz galten. Wie hängt dieser unglaubliche Fortschritt mit dem Durchsuchen von Bäumen zusammen und wo kommt Monte Carlo ins Spiel?</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Erwin Sulzgruber</title>
+      <link>https://erlebnis-mathematik.github.io/blog/2024/03/02/talkes/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/blog/2024/03/02/talkes/</guid>
+      <description>Am Freitag 15.3.2024 um 18:30 gibt DI Erwin Sulzgruber im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Was Sie schon immer über relationale Datenbanken wissen wollten&amp;rdquo; (aber sich nicht getraut haben zu fragen).</description>
+    </item>
+    
+    <item>
       <title>Vortrag Hans Preineder</title>
-      <link>/blog/2023/11/06/talkhp/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2023/11/06/talkhp/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023/11/06/talkhp/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2023/11/06/talkhp/</guid>
       <description>Am Freitag 17.11.2023 um 18:30 gibt Hans Preineder im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Simulation elektromagnetischer Felder – eine Anwendung der Mathematik&amp;rdquo;.
 Wo begegnen wir elektromagnetischen Feldern? Warum ist es nötig, die elektromagnetische Feldstärke an Bahnfahrzeugen zu messen? Die Messung des magnetischen Störfeldes im Bahnbereich ist nicht trivial. Mit Simulationsrechnungen versuchen wir diese Probleme besser zu verstehen. Was sind die Voraussetzungen, um eine sinnvolle Simulation durchzuführen? Welche Vorteile und Probleme treten bei einer Simulation auf?</description>
     </item>
     
     <item>
       <title>Jubliäumsband 5 Jahre Erlebnis Mathematik</title>
-      <link>/blog/2023/10/21/jubilaeumsband/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2023/10/21/jubilaeumsband/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023/10/21/jubilaeumsband/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2023/10/21/jubilaeumsband/</guid>
       <description>Anlässlich des 5-jährigen Bestehens des Erlebnis Mathematik wurde bei der Jubliäumsfeier am 29./30.9. der Jubiläumsband mit einer Kurzfassung von 11 abgehaltenen Vorträgen präsentiert. Der Band steht auch als Download nachfolgend zur Verfügung.
 Link zum Band</description>
     </item>
     
     <item>
       <title>Presse-Artikel in NÖN</title>
-      <link>/blog/2023/10/20/presseartikel5jahre/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2023/10/20/presseartikel5jahre/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023/10/20/presseartikel5jahre/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2023/10/20/presseartikel5jahre/</guid>
       <description>Über das 5-Jahres Jubiläum von &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten am 5.Oktober 2023 ein Artikel.
 Link zum Artikel</description>
     </item>
     
     <item>
       <title>Vortrag Wolfgang Herold</title>
-      <link>/blog/2023/05/05/talkwh/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2023/05/05/talkwh/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023/05/05/talkwh/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2023/05/05/talkwh/</guid>
       <description>Am Freitag 2.6.2023 gibt DI Wolfgang Herold im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Preis des Risikos&amp;rdquo;.
 Der Vortrag knüpft unmittelbar an das Thema der Wahrscheinlichkeit und (Un)Statistik von Gerold Petritsch an und beleuchtet die finanzökonomischen Aspekte des Risikomanagements (Versicherungsprodukte, Optionsprämien, Eigenkapital von Banken) ebenso wie die verhaltensökonomischen in Form von Risikoneigung, Glücksspiel und Anlegerverhalten.</description>
     </item>
     
     <item>
       <title>Kurzvorträge</title>
-      <link>/blog/2023/04/14/retalks/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2023/04/14/retalks/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023/04/14/retalks/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2023/04/14/retalks/</guid>
       <description>Am Freitag 28.4. gibt es zwei Kurzvorträge zu den Themen &amp;ldquo;Genealogie und Mathematik&amp;rdquo; und &amp;ldquo;Unstatistik - fix oder unwahrscheinlich?! Mensch und Zufall&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Vortrag Gerold Petritsch</title>
-      <link>/blog/2023/03/03/talkgp2/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2023/03/03/talkgp2/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023/03/03/talkgp2/</guid>
-      <description>Am Freitag 24.3. gibt Dr.techn. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Genealogie und Mathematik&amp;rdquo;.
+      <guid>https://erlebnis-mathematik.github.io/blog/2023/03/03/talkgp2/</guid>
+      <description>Am Freitag 24.3. gab Dr.techn. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Unstatistik - fix oder unwahrscheinlich?! Mensch und Zufall&amp;rdquo;.
 Wir haben so unsere Probleme mit dem Zufall und der Statistik. Wir schätzen Wahrscheinlichkeiten falsch ein und finden falsche Erklärungsmuster. Mein Vortrag bringt Beispiele zur Abstimmung und stellt Hypothesen zur Diskussion. Auch besprechen wir – bewusste und unbewusste – statistische Fehler und Manipulationsmöglichkeiten. Keine Vorlesung voller Formeln, aber zentrale Regeln werden erklärt oder aufgefrischt.</description>
     </item>
     
     <item>
       <title>Vortrag Franz Josef Vrabec</title>
-      <link>/blog/2022/10/31/talkfjv/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2022/10/31/talkfjv/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022/10/31/talkfjv/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2022/10/31/talkfjv/</guid>
       <description>Am Freitag 2.12. gibt Mag. Franz Josef Vrabec im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Genealogie und Mathematik&amp;rdquo;.
 Genealogie beschäftigt sich mit den Verwandtschaftsverhältnissen, die in der Geschichte der Menschheit auftreten. Für die historische Forschung ist sie wichtige Hilfswissenschaft, als eigenständige Disziplin bedient sie sich der Genetik und der Mathematik. Die zur Genealogie passende mathematische Methode ist die „Graphentheorie“. Im Vortrag wird eine anschauliche Einführung in diese mathematische Theorie gegeben und gezeigt, wie diese in den verschiedensten Gebieten – und eben auch in der Genealogie – eingesetzt wird.</description>
     </item>
     
     <item>
       <title>Vortrag Michael Feischl</title>
-      <link>/blog/2022/10/14/talkmichi/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2022/10/14/talkmichi/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022/10/14/talkmichi/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2022/10/14/talkmichi/</guid>
       <description>Am Freitag 14.10. gab Univ.-Prof. DI Dr. Michael Feischl im vollbesetzten Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Die Mathematik der Mondlandung&amp;rdquo;.
 (Quelle: Wikipedia)
 Die Mathematik der Mondlandung — Am 21. Juli 1969 hat Neil Armstrong als erster Mensch den Mond betreten. Eine herausragende ingenieurwissenschaftliche Leistung. Zuvor bedurfte es einiger Antworten: Wie groß muss eine Mondrakete sein? Was ist der schnellste Weg zum Mond? Und wie kommt man wieder zurück? Der Vortrag zeigt einige Aspekte, wie uns die Mathematik zum Mond gebracht hat.</description>
@@ -93,20 +194,20 @@ Die Mathematik der Mondlandung — Am 21. Juli 1969 hat Neil Armstrong als erste
     
     <item>
       <title>Presse-Artikel in NÖN</title>
-      <link>/blog/2022/07/22/presseartikel2022/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2022/07/22/presseartikel2022/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022/07/22/presseartikel2022/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2022/07/22/presseartikel2022/</guid>
       <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 23 Jahr 2022 der Artikel &amp;ldquo;Mathematik als Erlebnis&amp;rdquo;.
 Auch zur Kepler Feier am 10. und 11. Juni erschien ein Beitrag in Ausgabe 25 der NÖN 2022.</description>
     </item>
     
     <item>
       <title>Impression der Kepler Feier</title>
-      <link>/blog/2022/06/10/keplerfeier/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2022/06/10/keplerfeier/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022/06/10/keplerfeier/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2022/06/10/keplerfeier/</guid>
       <description>Feier anläßlich des 450.Geburtstag von Johannes Kepler  Am 10. und 11. Juni 2022 fanden Jubiläumsveranstaltungen im Erlebnis-Mathematik zu Ehren von Johannes Kepler statt.  
 Wir freuten uns über zahlreiches Erscheinen von Gästen und spannende Vorträge von Franz Vrabec, Christa Binder und Peter Schmitt.
  
@@ -117,60 +218,60 @@ Ein Highlight war die Uraufführung der Sphärenmusik (Improvisation: Manfred Pe
     
     <item>
       <title>450. Geburtstag Johannes Kepler</title>
-      <link>/blog/2022/05/11/kepler/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2022/05/11/kepler/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022/05/11/kepler/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2022/05/11/kepler/</guid>
       <description>27.Dezember 2021: 450.Geburtstag von Johannes Kepler  
  Am 10. und 11. Juni 2022 wird es Jubiläumsveranstaltungen im Erlebnis-Mathematik geben. Das Programm der Veranstaltung finden Sie hier: Link zum Programm Dank an den Unterstützer der Jubiläumsveranstaltung:  wp.stb@wiedeschitz.at</description>
     </item>
     
     <item>
       <title>QuarZa - Quartett der Geschichte der Zahlen</title>
-      <link>/blog/2022/03/27/quartett/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2022/03/27/quartett/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022/03/27/quartett/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2022/03/27/quartett/</guid>
       <description>QuarZa - Quartett der Geschichte der Zahlen  
  Durch das Quartettkartenspiel, das in sechs Themengebiete gegliedert ist, wird ein Eindruck von den Quellen und den ersten Zahlenstarstellungen vermittelt. Im Verlauf des Spiels wird den Spielerinnen und Spielern die lange Entwicklungsgeschichte der Brüche, der Zahl Null sowie jene der negativen und reellen Zahlen bewusst. Das Kartenspiel leistet dabei einen wichtigen Beitrag zur Interessensweckung für die Geschichte der Zahlen sowie zur selbständigen Beschäftigung mit deren Entwicklung.</description>
     </item>
     
     <item>
       <title>Herbsträtsel</title>
-      <link>/blog/2021/10/02/herbstraetsel/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2021/10/02/herbstraetsel/</link>
       <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/10/02/herbstraetsel/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2021/10/02/herbstraetsel/</guid>
       <description>Herbsträtsel 2021  In folgender Tabelle sind einige Mathematiker chronologisch nach ihren Geburtsdaten geordnet. Füge in den mit * gekennzeichneten Feldern Namen weiterer MathematikerInnen chronologisch ein!  
 Lösung bitte per Mail senden an: erlebnis-mathematik@gmx.at</description>
     </item>
     
     <item>
       <title>Objekt des Sommers 2020</title>
-      <link>/blog/2020/06/02/st%C3%BCcks20/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2020/06/02/st%C3%BCcks20/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/06/02/st%C3%BCcks20/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2020/06/02/st%C3%BCcks20/</guid>
       <description>Stschoty (Russischer Abakus)  
  Entwickelt aus dem Rechenbrett vor ca. 3000 Jahren, Grundrechnungsarten, Wurzelziehen Dargestellte Zahl: 2315,15</description>
     </item>
     
     <item>
       <title>SchauTV - schau LEBEN</title>
-      <link>/blog/2020/02/14/schautv/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2020/02/14/schautv/</link>
       <pubDate>Fri, 14 Feb 2020 17:49:20 +0200</pubDate>
       
-      <guid>/blog/2020/02/14/schautv/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2020/02/14/schautv/</guid>
       <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in SchauTV am 14. Februar 2020 in der Rubrik schau LEBEN ein Kurzbeitrag.
 Link zum Beitrag (Minuten 12:20-15:50)</description>
     </item>
     
     <item>
       <title>Vortrag Gerold Petritsch</title>
-      <link>/blog/2020/01/05/talkgp/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2020/01/05/talkgp/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/01/05/talkgp/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2020/01/05/talkgp/</guid>
       <description>Am Freitag, 17. 1. 2020 gab DI Dr. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Mathematik in der Energiewirtschaft - Rückblick, Status, Ausblick&amp;rdquo;.
 (Quelle: Wikipedia)
 DI Dr. Gerold Petritsch arbeitet seit rund 40 Jahren als angewandter Mathematiker in dieser Branche - das löste oft die Frage aus: Wozu hier Mathematik?!
@@ -179,10 +280,10 @@ Der Vortrag versucht sich der Fragestellung in drei miteinander verwobenen Gesch
     
     <item>
       <title>Vortrag Werner Schulze</title>
-      <link>/blog/2019/09/13/talkws/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2019/09/13/talkws/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/09/13/talkws/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2019/09/13/talkws/</guid>
       <description>Am Donnerstag, 21. 11. 2019 und Freitag, 22. 11. 2019 gab Univ.Prof.i.R. Dr.phil. Werner Schulze im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Musik, Mathematik, Harmonik – auch unter kreativem Aspekt&amp;rdquo;.
 Prof. Schulze ist Autor, Musiker, Komponist, Poet und Forscher. Bis 2014 war er Professor an der Universität für Musik und darstellende Kunst Wien (www.mdw.ac.at), wo er das Internationale Harmonik Zentrum begründet und geleitet hat.
 Zu den Feldern, die im Vortrag berührt werden, gehören: Die Seele des Tyrannen · Zahlen mit dem Ohr verstehen, Primzahlen hören · Einblick ins „Goldene Dreieck“ Musik – Mathematik – Architektur · Platons harmonikale Kosmologie · Conrad Henfling (1648-1716) · Betrachtung einer Semmel · Calculus differentialis: Eine Oper über Mathematik · Über den Zusammenhang der Zahl 5040 mit dem DIN-Format.</description>
@@ -190,10 +291,10 @@ Zu den Feldern, die im Vortrag berührt werden, gehören: Die Seele des Tyrannen
     
     <item>
       <title>Vortrag Markus Faustmann</title>
-      <link>/blog/2019/06/27/talkmf2/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2019/06/27/talkmf2/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/06/27/talkmf2/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2019/06/27/talkmf2/</guid>
       <description>Am 30.8.2019 gab Dr. Markus Faustmann im Erlebnis Mathematik einen geschichtlichen Vortrag mit dem Titel &amp;ldquo;Wie das Dezimalsystem nach Europa kam&amp;rdquo;.
 (Quelle: Wikipedia)
 Mit dem Dezimalsystem zu rechnen, lernen wir in sehr frühem Alter und es ist für uns heute ganz einfach und selbstverständlich. Historisch jedoch hatte das Dezimalsystem als Stellenwertsystem mit Basis 10 und indisch-arabischen Ziffern einen weiten Weg hinter sich, bis es in Europa die unhandlichen römischen Zahlen abgelöst hatte.</description>
@@ -201,20 +302,20 @@ Mit dem Dezimalsystem zu rechnen, lernen wir in sehr frühem Alter und es ist f�
     
     <item>
       <title>Vortrag Daniel Herold</title>
-      <link>/blog/2019/06/16/talkdh/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2019/06/16/talkdh/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/06/16/talkdh/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2019/06/16/talkdh/</guid>
       <description>Am 27.6.2019 gibt Daniel Herold einen Vortrag zum Thema &amp;ldquo;Die Vermessung der Welt und alles andere&amp;rdquo;.
 Als Carl Friedrich Gauß den Auftrag bekam, die Welt zu vermessen, erkannte er schnell: da steckt viel mehr dahinter als bloß Längen abzumessen. Bis heute bildet die damals begründete Differentialgeometrie eine fixe Grundlage für viele Anwendungen aus Geodäsie, Architektur und 3D-Modellierung. Neben modernen Computeranwendungen und spannenden Beispielen, darf auch ein kurzer Blick auf das „theorema egregium“ nicht fehlen – ein Satz von Gauß, den er selbst so bedeutsam fand, dass er ihn ganz bescheiden „hervorragender Lehrsatz“ nannte.</description>
     </item>
     
     <item>
       <title>Vortrag Friedrich Faustmann</title>
-      <link>/blog/2019/06/07/talkff/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2019/06/07/talkff/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/06/07/talkff/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2019/06/07/talkff/</guid>
       <description>Am 7.6.2019 gab DI Dr. Friedrich Faustmann im Erlebnis Mathematik einen Vortrag zu &amp;ldquo;Geschichte der Informatik&amp;rdquo;.
 Beginnend mit alten Rechenhilfsmitteln über die Entwicklung mehrerer Computer-Generationen bis hin zum Zeitalter der Vernetzung wurde ein historischer Streifzug durch die Geschichte der Informatik und ihrer Höhepunkte geboten.
 Nachfolgend finden sich ein paar Impressionen des gut besuchten Vortrags.</description>
@@ -222,30 +323,30 @@ Nachfolgend finden sich ein paar Impressionen des gut besuchten Vortrags.</descr
     
     <item>
       <title>Objekt des Sommers 2019</title>
-      <link>/blog/2019/05/15/austellungsst%C3%BCck/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2019/05/15/austellungsst%C3%BCck/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/05/15/austellungsst%C3%BCck/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2019/05/15/austellungsst%C3%BCck/</guid>
       <description>Napierschen Rechenstäbe  
  Die Rechenstäbchen sind benannt nach dem schottischen Mathematiker John Napier (1550-1617), der diese als Hilfsmittel zum Multiplizieren und Dividieren eingeführt hatte. Die Napierschen Stäbchen dienten unter Anderem als Grundlage für die erste Rechenmaschine von Wilhelm Schickard im Jahr 1623. Das Rechnen mit den Napierschen Rechenstäbchen wird im Erlebnis Mathematik detailgenau erklärt.</description>
     </item>
     
     <item>
       <title>Vortrag Markus Faustmann</title>
-      <link>/blog/2019/03/01/talkmf/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2019/03/01/talkmf/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/03/01/talkmf/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2019/03/01/talkmf/</guid>
       <description>Am 1.3.2019 gab Dr. Markus Faustmann im Erlebnis Mathematik einen Vortrag zu &amp;ldquo;Mathematik jetzt&amp;rdquo; vor vier Generationen von Mathematikern und einigen weiteren Interessierten.
 Auf anschauliche Art wurde ein Einblick in aktuelle Forschungsgebiete der numerischen Mathematik gegeben und einige Simulationen konkreter Problemstellungen vorgeführt.</description>
     </item>
     
     <item>
       <title>Vortrag Gerlinde Faustmann</title>
-      <link>/blog/2018/12/14/talkgf/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2018/12/14/talkgf/</link>
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/12/14/talkgf/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2018/12/14/talkgf/</guid>
       <description>Am 9.11.2018 gab Dr. Gerlinde Faustmann im Erlebnis Mathematik einen Vortrag zum Thema &amp;ldquo;Adam Ries - Leben und Werk&amp;rdquo;.
  
 Auf Grund des großen Interesses wurde der Vortrag am 14.12.2018 im Erlebnis Mathematik nochmals wiederholt.
@@ -256,10 +357,10 @@ Das Ziel von Adam Ries ersten Rechenbuches war Kindern das Linienrechnen beizubr
     
     <item>
       <title>Eröffnung</title>
-      <link>/blog/2018/09/30/er%C3%B6ffnung/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2018/09/30/er%C3%B6ffnung/</link>
       <pubDate>Sun, 30 Sep 2018 10:49:20 +0200</pubDate>
       
-      <guid>/blog/2018/09/30/er%C3%B6ffnung/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2018/09/30/er%C3%B6ffnung/</guid>
       <description>Der offene Raum &#34;Erlebnis Mathematik&#34; wurde am 29. September 2018 feierlich von Gerlinde Faustmann eröffnet.  
 Wir freuten uns über zahlreiches Erscheinen von Ehrengästen aus der Politik, vom Landesschulrat sowie von den Wiener Neustädter Schulen.
  
@@ -272,28 +373,28 @@ Auch zwei fachliche Vorträge &amp;ldquo;Mathematik einst&amp;rdquo; von Dr.</de
     
     <item>
       <title>Objekt der Eröffnung</title>
-      <link>/blog/2018/09/01/st%C3%BCcker%C3%B6ffnung/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2018/09/01/st%C3%BCcker%C3%B6ffnung/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/09/01/st%C3%BCcker%C3%B6ffnung/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2018/09/01/st%C3%BCcker%C3%B6ffnung/</guid>
       <description>Kepler-Stern</description>
     </item>
     
     <item>
       <title>Presse-Artikel in NÖN</title>
-      <link>/blog/2018/08/22/rezension/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2018/08/22/rezension/</link>
       <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
       
-      <guid>/blog/2018/08/22/rezension/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2018/08/22/rezension/</guid>
       <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 32 Jahr 2018 der Artikel &amp;ldquo;Liebeserklärung an die Mathematik&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Objekt des Sommers 2018</title>
-      <link>/blog/2018/06/10/st%C3%BCcks2018/</link>
+      <link>https://erlebnis-mathematik.github.io/blog/2018/06/10/st%C3%BCcks2018/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/06/10/st%C3%BCcks2018/</guid>
+      <guid>https://erlebnis-mathematik.github.io/blog/2018/06/10/st%C3%BCcks2018/</guid>
       <description>Königsberger Brücken</description>
     </item>
     
