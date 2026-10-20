@@ -6,10 +6,20 @@
     <description>Recent content in Events on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erlebnis-mathematik.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Markus Faustmann</title>
+      <link>https://erlebnis-mathematik.github.io/events/2026/10/18/talkmf26/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlebnis-mathematik.github.io/events/2026/10/18/talkmf26/</guid>
+      <description>Am 06.11.2026 gibt Ass.Prof.Dr. Markus Faustmann im Erlebnis Mathematik einen mathematischen Vortrag mit dem Titel &amp;ldquo;Die größten Zahlen der Mathematik&amp;rdquo;.
+Was sind große Zahlen? Ist die Zahl 10 Sexdezilliarden oder ein Googol (1 gefolgt von 100 Nullen) groß, bzw. was sind die größten nützlichen Zahlen, die in mathematischen Beweisen oder Fragestellungen aufgetreten sind? Im historischen Kontext wird eine Funktion aus der Zahlentheorie erläutert. Von einem kombinatorischen Problem ausgehend lernen wir eine neue Notation für richtig große Zahlen kennen.</description>
+    </item>
     
     <item>
       <title>Vortrag Felix Breitenecker</title>
